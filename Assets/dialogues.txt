@@ -1,0 +1,23 @@
+[wizard]
+Good day, visitor!  Welcome to the Wizard's Tavern.
+I'm selling some freshly brewed potions.
+
+So you're on the hunt for the evil behind this
+catastrophe. You are a brave man, but the path ahead
+is dangerous. I can provide you with some magical
+potions which will grant you magical abilities. But
+everything comes at a cost.
+
+[farlus]
+I have some gold. Take as much as you want, old man.
+
+[wizard]
+Given the circumstances, gold will not keep me
+alive, but water will. Do you have water?
+
+[farlus]
+Yes, I do have some water.
+
+[wizard]
+Very well then! Here are your potions. You should
+look around if you want to buy more.
