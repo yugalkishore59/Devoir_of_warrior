@@ -21,3 +21,10 @@ Yes, I do have some water.
 [wizard]
 Very well then! Here are your potions. You should
 look around if you want to buy more.
+
+[farlus]
+Ah! The door is locked. What is it on the door?
+It appears to be a puzzle.
+
+[farlus]
+The door is open now.
