@@ -20,7 +20,7 @@ Yes, I do have some water.
 
 [wizard]
 Very well then! Here are your potions. You should
-look around if you want to buy more.
+look around if you want anything else.
 
 [farlus]
 Ah! The door is locked. What is it on the door?
@@ -28,3 +28,19 @@ It appears to be a puzzle.
 
 [farlus]
 The door is open now.
+
+[oris]
+Who dares barge in? Prepare to die.
+
+[oris]
+Noooooo! How can this be happening?
+
+[farlus]
+Who is responsible for this disaster?
+Take me to your master.
+
+[oris]
+I failed you, Lord Ukar! Please forgive me.
+
+[farlus]
+So Ukar it is. Now at least I know his name.
