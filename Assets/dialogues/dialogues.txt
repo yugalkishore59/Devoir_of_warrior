@@ -29,7 +29,7 @@ It appears to be a puzzle.
 [farlus]
 The door is open now.
 
-[oris]
+[oris] [scuris] [kindra] [salb]
 Who dares barge in? Prepare to die.
 
 [oris]
@@ -44,3 +44,80 @@ I failed you, Lord Ukar! Please forgive me.
 
 [farlus]
 So Ukar it is. Now at least I know his name.
+
+[falus]
+You are no match for me.
+Now take me to Ukar, your lord.
+
+[Scuris]
+You will never find him. The path is guarded by
+much stronger Lord Ukar's servants.
+
+[farlus]
+They will all meet the same fate.
+
+[Slab]
+I let you down, Lord Ukar!
+
+[farlus]
+Where is he hiding behind weaklings like you?
+
+[slab]
+On the summit of Basalt Hill, he is in his mansion.
+
+[farlus]
+It looks like I am close.
+
+[Kindra]
+You are stronger than me, but you don't stand a
+chance against Lord Ukar.
+
+He becomes stronger as he absorbs water from
+anything. He will absorb water right out of your
+body.
+
+You'll suffer a painful demise!
+
+[farlus]
+This doesn't scare me at all.
+
+[ukar]
+Oh, my goodness! Look what we have here.
+A mere human! I will smash you like a bug!
+
+This can't be....! I...I am the strongest.
+
+I am going to rule this world. I can't die!
+
+[farlus]
+Everything has an end. And today is yours.
+
+Now that evil is gone, I should head back to
+Nadolin.
+
+[Farlus]
+Where am I?
+I should find the way out.
+
+Ah! The way is blocked! What are those three
+hollow sections on the gate? I need to find
+something that fits in.
+
+Now this should clear the way.
+
+Not again!
+I think they need to go somewhere.
+
+Wait, what is happening? I should place the
+stone before everything crumbles.
+
+That's the last one. Let's go back.
+
+It's quite hot up here.
+
+The platform is not in place.
+This is not natural. There must be something
+that caused this.
+
+So this is Ukar's big place.
+This could be tricky.
