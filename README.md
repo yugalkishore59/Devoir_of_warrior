@@ -23,3 +23,13 @@ Devoir of Warrior tells the story of a brave warrior known as Farlus, on a quest
 
 # Contributing to the Project
 All the assets used in this project are well organised in the ["Assets"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Assets) folder. All the `.catrobat` files exported this summer are in the ["Exports"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Exports) folder. The latest export will be placed in the ["Released"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Released) folder and can also be downloaded from the [Catrobat community](https://share.catrob.at/pocketalice/). You may download, fix bugs, add new features, and remix this game as you like.
+
+# Screenshots
+![ss 1](https://user-images.githubusercontent.com/81173749/189192759-1d2b42b9-217d-4af7-b259-83c24f651e23.png)
+![ss 2](https://user-images.githubusercontent.com/81173749/189192883-6ad60080-873f-402d-b1ac-35346774467f.png)
+![ss 3](https://user-images.githubusercontent.com/81173749/189192898-48d8c368-aa7a-458e-980c-df1d247f7d1e.png)
+![ss 4](https://user-images.githubusercontent.com/81173749/189192913-07b68e0d-7888-40c7-abce-87f1ebc77e96.png)
+![ss 5](https://user-images.githubusercontent.com/81173749/189192930-632d1fbd-1c76-4b8a-a80a-5eabca86491d.png)
+![ss 6](https://user-images.githubusercontent.com/81173749/189192934-58749eff-de01-4493-8dd0-9ba8936641b2.png)
+![ss 7](https://user-images.githubusercontent.com/81173749/189192947-8f0613a1-81a2-4adb-a777-7453c3e5330e.png)
+![ss 8](https://user-images.githubusercontent.com/81173749/189192952-c3153a8a-675d-40b8-8f9b-ba3c8ba37fab.png)
