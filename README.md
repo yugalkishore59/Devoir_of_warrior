@@ -22,4 +22,4 @@ Devoir of Warrior tells the story of a brave warrior known as Farlus, on a quest
 ### Here is the link - 
 
 # Contributing to the Project
-All the assets used in this project are well organised in the "Assets" folder. All the ".catrobat" files exported this summer are in the "Exports" folder. The latest export will be placed in the "Released" folder and can also be downloaded from the Catrobat community. You may download, fix bugs, add new features, and remix this game as you like.
+All the assets used in this project are well organised in the ["Assets"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Assets) folder. All the `.catrobat` files exported this summer are in the ["Exports"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Exports) folder. The latest export will be placed in the ["Released"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Released) folder and can also be downloaded from the [Catrobat community](https://share.catrob.at/pocketalice/). You may download, fix bugs, add new features, and remix this game as you like.
