@@ -11,9 +11,15 @@ The game is complete and every asset used in this project is provided in this re
 
 ### Devoir of Warrior is published on Catrobat Community.
 ### Here is the download link - https://share.catrob.at/pocketalice/
-(can only be played through Pocket Code or Luna&Cat IDE)
+(can be played only through Pocket Code or Luna&Cat IDE)
 
 # About the Game
 Devoir of Warrior is a fast-paced dungeon crawler game with puzzle solving elements. Packed with plenty of action and magical stuff, Devoir of Warrior provides a fluid and lag-free experience. You'll have to be quick on the battle field as there is no time to waste.
 
 Devoir of Warrior tells the story of a brave warrior known as Farlus, on a quest to find and destroy an unknown evil reason behind the lost rains. Along this journey, you will have to explore various dungeons, solve the puzzles, and defeat the enemies. This game has some really strong and badass Boss fights which makes this game even more challenging. Along the route, you'll also come across a lot of Wizard's taverns, which are proper save points where you can upgrade your stats, purchase and select from a variety of magical attacks and save your progress. This gives you the flexibility to enjoy the game in your own playing style.
+
+### Complete gameplay is uploaded on YouTube
+### Here is the link - 
+
+# Contributing to the Project
+All the assets used in this project are well organised in the "Assets" folder. All the ".catrobat" files exported this summer are in the "Exports" folder. The latest export will be placed in the "Released" folder and can also be downloaded from the Catrobat community. You may download, fix bugs, add new features, and remix this game as you like.
