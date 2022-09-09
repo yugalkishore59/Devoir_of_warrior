@@ -19,7 +19,7 @@ Devoir of Warrior is a fast-paced dungeon crawler game with puzzle solving eleme
 Devoir of Warrior tells the story of a brave warrior known as Farlus, on a quest to find and destroy an unknown evil reason behind the lost rains. Along this journey, you will have to explore various dungeons, solve the puzzles, and defeat the enemies. This game has some really strong and badass Boss fights which makes this game even more challenging. Along the route, you'll also come across a lot of Wizard's taverns, which are proper save points where you can upgrade your stats, purchase and select from a variety of magical attacks and save your progress. This gives you the flexibility to enjoy the game in your own playing style.
 
 ### Complete gameplay is uploaded on YouTube
-### Here is the link - 
+### Here is the link - https://youtu.be/izHe6gI0i7c
 
 # Contributing to the Project
 All the assets used in this project are well organised in the ["Assets"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Assets) folder. All the `.catrobat` files exported this summer are in the ["Exports"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Exports) folder. The latest export will be placed in the ["Released"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Released) folder and can also be downloaded from the [Catrobat community](https://share.catrob.at/pocketalice/). You may download, fix bugs, add new features, and remix this game as you like.
