@@ -10,7 +10,7 @@ Devoir of Warrior is heavily influenced by a very popular game Wizard of Legend.
 The game is complete and every asset used in this project is provided in this repository. Hence, this 175-hour-long Awesome Demo Game Project accomplished its goal by creating a fully-fledged game on the Pocket Code/Luna&Cat IDE app.
 
 ### Devoir of Warrior is published on Catrobat Community.
-### Here is the download link - https://share.catrob.at/pocketalice/
+### Here is the download link - https://share.catrob.at/app/project/a678e6f7-1a90-4230-b5f6-6086cb4ebfbe
 (can be played only through Pocket Code or Luna&Cat IDE)
 
 # About the Game
@@ -22,7 +22,7 @@ Devoir of Warrior tells the story of a brave warrior known as Farlus, on a quest
 ### Here is the link - https://youtu.be/izHe6gI0i7c
 
 # Contributing to the Project
-All the assets used in this project are well organised in the ["Assets"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Assets) folder. All the `.catrobat` files exported this summer are in the ["Exports"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Exports) folder. The latest export will be placed in the ["Released"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Released) folder and can also be downloaded from the [Catrobat community](https://share.catrob.at/pocketalice/). You may download, fix bugs, add new features, and remix this game as you like.
+All the assets used in this project are well organised in the ["Assets"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Assets) folder. All the `.catrobat` files exported this summer are in the ["Exports"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Exports) folder. The latest export will be placed in the ["Released"](https://github.com/yugalkishore59/Devoir_of_warrior/tree/main/Released) folder and can also be downloaded from the [Catrobat community](https://share.catrob.at/app/project/a678e6f7-1a90-4230-b5f6-6086cb4ebfbe). You may download, fix bugs, add new features, and remix this game as you like.
 
 # Screenshots
 ![ss 1](https://user-images.githubusercontent.com/81173749/189192759-1d2b42b9-217d-4af7-b259-83c24f651e23.png)
