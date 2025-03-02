@@ -1,6 +1,6 @@
 # Devoir of Warrior
 ## Awesome Demo Game Project - 175H
-### Google Summer of Code 2022 - [International Catrobat Association](https://catrobat.org/)
+### [Google Summer of Code 2022](https://summerofcode.withgoogle.com/archive/2022/projects/cU578BOg) - [International Catrobat Association](https://catrobat.org/)
 ![Poster](https://user-images.githubusercontent.com/81173749/188976618-cd363d57-26d5-4c78-9db9-e831183ed8a0.png)
 # Summary
 This summer, I had a chance to be part of Google Summer of Code 2022 and work with the International Catrobat Association. I worked on the Awesome Demo Game Project with Yash Punia as my mentor. My project was to create a complete game using Pocket Code, i.e., in the Catrobat visual programming language. This game, Devoir of Warrior, is playable on both a smartphone and a smart TV when cast from the phone.
